@@ -1,4 +1,5 @@
 {
   "acesso_liberado": true,
-  "mensagem": "Acesso liberado para a equipe de T.I."
+  "versao_minima": "1.0",
+  "mensagem_erro": "Sua versão está desatualizada. Por favor, solicite a nova versão com o Administrador."
 }
