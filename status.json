@@ -1,5 +1,5 @@
 {
-  "acesso_liberado": true,
+  "acesso_liberado": false,
   "versao_minima": "1.0",
   "mensagem_erro": "Sua versão está desatualizada. Por favor, solicite a nova versão com o Administrador."
 }
